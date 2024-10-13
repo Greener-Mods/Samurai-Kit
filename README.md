@@ -3,7 +3,7 @@
 SAMURAI: Samurai are professional warriors, members of the noble class who are trained in the arts of warfare. They are not only trained for their role in society, they are born into a system of allegiance, loyalty, and honor that influences every stage of their lives. A samurai cut loose from this system is no longer a samurai; he is an ordinary fighter, a ronin with no honor and no standing in society.
 
 Advantages:
-- May achieve Grand Mastery (five slots) in Katanas, Wakizashis, Morning Star, Halberds and Longbows.
+- May achieve Grand Mastery (five slots) in Katanas, Wakizashis, Morning Stars, Halberds and Longbows.
 - May use Kai ability once per day per level.
 
 KAI:  The samurai increases his strength score to 18/00 for 1 round.
